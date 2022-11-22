@@ -55,23 +55,59 @@
           <AssociatedConnUserName />
           <FullPath>05_Partitionierung.sql</FullPath>
         </FileNode>
+        <FileNode Name="06_Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_Monitoring.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07_Monitoring.sql</FullPath>
+        </FileNode>
+        <FileNode Name="X_Tag1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>X_Tag1.sql</FullPath>
+        </FileNode>
         <FileNode Name="Z_Demotabelle.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>Z_Demotabelle.sql</FullPath>
         </FileNode>
+        <FileNode Name="Z_Fehlende Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_Fehlende Indizes.sql</FullPath>
+        </FileNode>
         <FileNode Name="Z_Fix_VLF.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Z_Fix_VLF.sql</FullPath>
         </FileNode>
         <FileNode Name="z_Perfmon_Indikatoren.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>z_Perfmon_Indikatoren.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_SQL Server 2019 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_SQL Server 2019 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_Überflüssige Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_Überflüssige Indizes.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
